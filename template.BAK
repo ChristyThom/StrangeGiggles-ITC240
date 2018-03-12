@@ -1,0 +1,12 @@
+<?php include 'includes/config.php';?>
+<?php include 'includes/header.php';?>
+<!--HEADER ENDS HERE-->
+ <h2>Our Template </h2>
+             
+              <p>Clever Content from Clever Me</p>
+              <p>Clever Content from Clever Me</p>
+              <p>Clever Content from Clever Me</p>
+              <p>Clever Content from Clever Me</p>
+              <p>Clever Content from Clever Me</p>
+
+<?php include 'includes/footer.php';?>
